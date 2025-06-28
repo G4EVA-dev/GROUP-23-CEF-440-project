@@ -30,7 +30,7 @@ const swaggerDefinition = {
       description: 'Development server'
     },
     {
-      url: 'https://trackify-i4hx.onrender.com',
+      url: 'https://trackify-i4hx.onrender.com/api',
       description: 'Production server'
     }
   ],
